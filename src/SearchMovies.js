@@ -3,9 +3,7 @@ import MovieCard from './MovieCard'
 
 export default function SearchMovies() {
 
-    //states - input query, movies
     const [query, setQuery] = useState('')
-    //create the state for movies, and update that state approriate
     const [movies, setMovies] = useState([])
 
 

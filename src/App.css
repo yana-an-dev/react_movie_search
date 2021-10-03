@@ -9,7 +9,15 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(244,244,244);
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.7), 
+    rgba(0, 0, 0, 0.7)
+  ),
+  url(./assets/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #333;
 
 }
@@ -29,9 +37,57 @@ small {
 }
 
 .title {
+  font-family: "Vibur", cursive;
   font-size: 4.4rem;
   text-align: center;
+
 }
+
+.title {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+    font-size: 5.6rem;
+    text-align: center;
+    line-height: 1;
+
+    /* color: #c6e2ff; */
+    color: white;
+    animation: neon .08s ease-in-out infinite alternate;
+  
+
+}
+
+/*-- Animation Keyframes --*/
+
+
+@keyframes neon {
+  from {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.92),
+    0 0 30px rgba(202,228,225,0.34),
+    0 0 12px rgba(30,132,242,0.52),
+    0 0 21px rgba(30,132,242,0.92),
+    0 0 34px rgba(30,132,242,0.78),
+    0 0 54px rgba(30,132,242,0.92);
+  }
+  to {
+    text-shadow:
+    0 0 6px rgba(202,228,225,0.98),
+    0 0 30px rgba(202,228,225,0.42),
+    0 0 12px rgba(30,132,242,0.58),
+    0 0 22px rgba(30,132,242,0.84),
+    0 0 38px rgba(30,132,242,0.88),
+    0 0 60px rgba(30,132,242,1);
+  }
+}
+
+
+
 
 .form{
   display: grid;
@@ -40,6 +96,7 @@ small {
   font-size: 1.2rem;
   margin-bottom: 0.2rem;
   text-transform: uppercase;
+  color: white;
 }
 .input{
   font-size: 1.6rem;
