@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "https://yana-an-dev.github.io/react_movie_search/static/css/main.d16afb62.chunk.css",
-    "main.js": "https://yana-an-dev.github.io/react_movie_search/static/js/main.7a2543b3.chunk.js",
-    "main.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/main.7a2543b3.chunk.js.map",
-    "runtime-main.js": "https://yana-an-dev.github.io/react_movie_search/static/js/runtime-main.38cb6793.js",
-    "runtime-main.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/runtime-main.38cb6793.js.map",
-    "static/js/2.914dec1b.chunk.js": "https://yana-an-dev.github.io/react_movie_search/static/js/2.914dec1b.chunk.js",
-    "static/js/2.914dec1b.chunk.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/2.914dec1b.chunk.js.map",
-    "static/js/3.3d448c27.chunk.js": "https://yana-an-dev.github.io/react_movie_search/static/js/3.3d448c27.chunk.js",
-    "static/js/3.3d448c27.chunk.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/3.3d448c27.chunk.js.map",
+    "main.css": "https://yana-an-dev.github.io/react_movie_search/static/css/main.7f4a4fd4.chunk.css",
+    "main.js": "https://yana-an-dev.github.io/react_movie_search/static/js/main.ed2af963.chunk.js",
+    "main.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/main.ed2af963.chunk.js.map",
+    "runtime-main.js": "https://yana-an-dev.github.io/react_movie_search/static/js/runtime-main.4c2e2e87.js",
+    "runtime-main.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/runtime-main.4c2e2e87.js.map",
+    "static/js/2.7bcee2c8.chunk.js": "https://yana-an-dev.github.io/react_movie_search/static/js/2.7bcee2c8.chunk.js",
+    "static/js/2.7bcee2c8.chunk.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/2.7bcee2c8.chunk.js.map",
+    "static/js/3.ed284ef6.chunk.js": "https://yana-an-dev.github.io/react_movie_search/static/js/3.ed284ef6.chunk.js",
+    "static/js/3.ed284ef6.chunk.js.map": "https://yana-an-dev.github.io/react_movie_search/static/js/3.ed284ef6.chunk.js.map",
     "index.html": "https://yana-an-dev.github.io/react_movie_search/index.html",
-    "static/css/main.d16afb62.chunk.css.map": "https://yana-an-dev.github.io/react_movie_search/static/css/main.d16afb62.chunk.css.map",
-    "static/js/2.914dec1b.chunk.js.LICENSE.txt": "https://yana-an-dev.github.io/react_movie_search/static/js/2.914dec1b.chunk.js.LICENSE.txt",
+    "static/css/main.7f4a4fd4.chunk.css.map": "https://yana-an-dev.github.io/react_movie_search/static/css/main.7f4a4fd4.chunk.css.map",
+    "static/js/2.7bcee2c8.chunk.js.LICENSE.txt": "https://yana-an-dev.github.io/react_movie_search/static/js/2.7bcee2c8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://yana-an-dev.github.io/react_movie_search/static/media/bg.40a25a26.jpg",
     "static/media/logo.6ce24c58.svg": "https://yana-an-dev.github.io/react_movie_search/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38cb6793.js",
-    "static/js/2.914dec1b.chunk.js",
-    "static/css/main.d16afb62.chunk.css",
-    "static/js/main.7a2543b3.chunk.js"
+    "static/js/runtime-main.4c2e2e87.js",
+    "static/js/2.7bcee2c8.chunk.js",
+    "static/css/main.7f4a4fd4.chunk.css",
+    "static/js/main.ed2af963.chunk.js"
   ]
 }
