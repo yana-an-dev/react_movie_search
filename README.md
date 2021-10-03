@@ -1,13 +1,8 @@
 # React Moive Finder 
 [Live view](https://yana-an-dev.github.io/react_movie_search/)
 
-
-- React Hook
-- JavaScript Fetch
-- Movie API 
-
-- Show movies with useEffect with fetch API
-- Search movies with useState 
+- Show searched movies with useEffect with JavaScript fetch API
+- Search movies function with useState 
 - Fetched Movie Database API from [TMDB] (https://www.themoviedb.org/)
-
--from Scrimba course of jamesqquick
+![alt text](/img/live-view.png)
+- From Scrimba React Course by @jamesqquick
